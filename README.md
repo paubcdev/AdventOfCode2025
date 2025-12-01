@@ -16,8 +16,10 @@ AoC
     ├── inputs
     ├── example_inputs
     ├── utils
-    |    └── input.go
+    │    └── input.go
+    ├── .gitignore
     ├── go.mod
     ├── main.go
     └── README.md
 ```
+
