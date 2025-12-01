@@ -1,0 +1,54 @@
+package main
+
+import (
+	"fmt"
+	"os"
+	"strconv"
+
+	"AoC2025/days/day01"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage: go run main.go <day> [part]")
+		os.Exit(1)
+	}
+
+	day, err := strconv.Atoi(os.Args[1])
+	if err != nil || day < 1 || day > 12 {
+		fmt.Printf("Invalid input: %s (day must be between 1 - 12)\n", os.Args[1])
+		os.Exit(1)
+	}
+
+	part := 0
+	if len(os.Args) >= 3 {
+		part, err = strconv.Atoi(os.Args[2])
+		if err != nil || (part != 1 && part != 2) {
+			fmt.Printf("Invalid part: %s (must be 1 or 2)\n", os.Args[2])
+			os.Exit(1)
+		}
+	}
+
+	fmt.Printf("=== Advent of Code 2025 - Day %d ===\n\n", day)
+
+	solver := getSolver(day)
+	if solver == nil {
+		fmt.Printf("Day %d not available\n", day)
+		os.Exit(1)
+	}
+
+	solver.Run(part)
+}
+
+type Solver interface {
+	Run(part int)
+}
+
+func getSolver(day int) Solver {
+	switch day {
+	case 1:
+		return &day01.Solution{}
+	default:
+		return nil
+	}
+}
