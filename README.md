@@ -7,7 +7,7 @@ My solve is in the [Go programming language](https://go.dev/), version 1.24.3.
 ## Project Structure
 
 The project is structured as follows:
-
+```
 AoC
 └── 2025/
     ├── days/
@@ -16,7 +16,8 @@ AoC
     ├── inputs
     ├── example_inputs
     ├── utils
-        └── input.go
+    |    └── input.go
     ├── go.mod
     ├── main.go
     └── README.md
+```
