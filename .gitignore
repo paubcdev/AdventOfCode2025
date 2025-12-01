@@ -1,0 +1,16 @@
+# AoC specific dirs and files
+inputs/
+test_inputs/
+
+# Test and coverage files
+*_test.go
+*.out
+coverage.*
+
+# Go specific files
+go.work
+go.work.sum
+
+# Environment files
+.env
+.vscode/
