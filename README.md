@@ -23,3 +23,11 @@ AoC
     └── README.md
 ```
 
+## Daily log
+
+* **Day 01:** Who needs a password manager anyway? | :star2: :star2:
+
+
+## Number of stars collected
+
+:star2: 02/24 :star2:
