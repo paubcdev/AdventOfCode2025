@@ -6,6 +6,7 @@ import (
 	"strconv"
 
 	"AoC2025/days/day01"
+	"AoC2025/days/day02"
 )
 
 func main() {
@@ -48,6 +49,8 @@ func getSolver(day int) Solver {
 	switch day {
 	case 1:
 		return &day01.Solution{}
+	case 2:
+		return &day02.Solution{}
 	default:
 		return nil
 	}
