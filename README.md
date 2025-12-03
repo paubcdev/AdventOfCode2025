@@ -27,7 +27,8 @@ AoC
 
 * **Day 01:** Who needs a password manager anyway? | :star2: :star2:
 * **Day 02:** Exit through the Gift Shop. | :star2: :star2:
+* **Day 03:** The problems with modern batteries. | :star2: :star2:
 
 ## Number of stars collected
 
-:star2: 04/24 :star2:
+:star2: 06/24 :star2:
