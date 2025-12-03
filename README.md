@@ -7,7 +7,8 @@ My solve is in the [Go programming language](https://go.dev/), version 1.24.3.
 ## Project Structure
 
 The project is structured as follows:
-```
+
+```text
 AoC
 └── 2025/
     ├── days/
