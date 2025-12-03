@@ -7,6 +7,7 @@ import (
 
 	"AoC2025/days/day01"
 	"AoC2025/days/day02"
+	"AoC2025/days/day03"
 )
 
 func main() {
@@ -51,6 +52,8 @@ func getSolver(day int) Solver {
 		return &day01.Solution{}
 	case 2:
 		return &day02.Solution{}
+	case 3:
+		return &day03.Solution{}
 	default:
 		return nil
 	}
