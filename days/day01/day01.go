@@ -48,9 +48,9 @@ func (s *Solution) Run(part int) {
 	}
 
 	if part == 2 {
-		fmt.Printf("Part 2: Password = %d\n", zeroCount)
+		fmt.Printf("Part 2: %d\n", zeroCount)
 	} else {
-		fmt.Printf("Part 1: Password = %d\n", zeroCount)
+		fmt.Printf("Part 1: %d\n", zeroCount)
 	}
 }
 

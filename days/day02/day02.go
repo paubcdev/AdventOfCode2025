@@ -40,9 +40,9 @@ func (s *Solution) Run(part int) {
 	}
 
 	if part == 2 {
-		fmt.Printf("Part 2: Sum of invalid IDs = %d\n", sum)
+		fmt.Printf("Part 2: %d\n", sum)
 	} else {
-		fmt.Printf("Part 1: Sum of invalid IDs = %d\n", sum)
+		fmt.Printf("Part 1: %d\n", sum)
 	}
 }
 
