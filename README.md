@@ -33,7 +33,8 @@ AoC
 * **Day 05:** Fresher ingredients than a farmer's market day haul. | :star2: :star2:
 * **Day 06:** Cephalopod maths? Never heard of 'em. | :star2: :star2:
 * **Day 07:** Don't mess with quantum stuff. | :star2: :star2:
+* **Day 08:** Maybe not high voltage, definitely high stakes. | :star2: :star2:
 
 ## Number of stars collected
 
-:star2: 14/24 :star2:
+:star2: 16/24 :star2:
