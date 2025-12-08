@@ -31,6 +31,7 @@ AoC
 * **Day 03:** The problems with modern batteries. | :star2: :star2:
 * **Day 04:** Forklift certified. :sunglasses: | :star2: :star2:
 * **Day 05:** Fresher ingredients than a farmer's market day haul. | :star2: :star2:
+* **Day 06:** Cephalopod maths? Never heard of 'em. | :star2: :star2:
 
 ## Number of stars collected
 
