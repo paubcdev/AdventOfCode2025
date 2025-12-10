@@ -35,7 +35,8 @@ AoC
 * **Day 07:** Don't mess with quantum stuff. | :star2: :star2:
 * **Day 08:** Maybe not high voltage, definitely high stakes. | :star2: :star2:
 * **Day 09:** Geometry is fun! | :star2:
+* **Day 10:** RTFM, requirements are in there. | :star2: :star2:
 
 ## Number of stars collected
 
-:star2: 17/24 :star2:
+:star2: 19/24 :star2:
