@@ -36,7 +36,8 @@ AoC
 * **Day 08:** Maybe not high voltage, definitely high stakes. | :star2: :star2:
 * **Day 09:** Geometry is fun! | :star2: :star2:
 * **Day 10:** RTFM, requirements are in there. | :star2: :star2:
+* **Day 11:** Call the network engineer for this one... | :star2: :star2:
 
 ## Number of stars collected
 
-:star2: 20/24 :star2:
+:star2: 22/24 :star2:
